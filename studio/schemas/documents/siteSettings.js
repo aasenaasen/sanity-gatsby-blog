@@ -16,6 +16,12 @@ export default {
       description: 'Describe your blog for search engines and social media.'
     },
     {
+      name: 'subtitle',
+      type: 'string',
+      title: 'Subtitle',
+      description: 'Short subtitle'
+    },
+    {
       name: 'keywords',
       type: 'array',
       title: 'Keywords',
